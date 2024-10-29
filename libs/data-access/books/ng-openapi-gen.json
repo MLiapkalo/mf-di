@@ -1,0 +1,11 @@
+{
+  "$schema": "/node_modules/ng-openapi-gen/ng-openapi-gen-schema.json",
+  "input": "https://fakerestapi.azurewebsites.net/swagger/v1/swagger.json",
+  "output": "libs/data-access/books/src/lib",
+  "ignoreUnusedModels": true,
+  "module": false,
+  "services": false,
+  "configuration": "BooksApiConfiguration",
+  "apiService": "BooksApiService",
+  "includeTags": ["Books"]
+}

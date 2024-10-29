@@ -1,0 +1,11 @@
+export * from './lib/models'
+export * from './lib/books-api-configuration'
+export * from './lib/books-api.service'
+
+export * from './lib/fn/books/api-v-1-books-id-put'
+export * from './lib/fn/books/api-v-1-books-id-get-plain-v-10'
+export * from './lib/fn/books/api-v-1-books-post'
+export * from './lib/fn/books/api-v-1-books-id-delete'
+export * from './lib/fn/books/api-v-1-books-get-plain-v-10'
+export * from './lib/fn/books/api-v-1-books-get-json-v-10'
+export * from './lib/fn/books/api-v-1-books-id-get-json-v-10'
